@@ -1,0 +1,4 @@
+'.text.html.php.blade':
+  '{!! Form::checkbox() !!}':
+    'prefix': 'formcheckbox'
+    'body': '{!! Form::checkbox(${1:$name}, ${2:$value}, ${3:$checked}, [${4}]) !!}'

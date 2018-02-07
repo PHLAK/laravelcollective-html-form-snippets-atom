@@ -1,0 +1,4 @@
+'.text.html.php.blade':
+  '{!! Form::email() !!}':
+    'prefix': 'formemail'
+    'body': '{!! Form::email(${1:$name}, ${2:$value}, [${3}]) !!}'

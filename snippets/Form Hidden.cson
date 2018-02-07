@@ -1,0 +1,4 @@
+'.text.html.php.blade':
+  '{!! Form::hidden() !!}':
+    'prefix': 'formhidden'
+    'body': '{!! Form::hidden(${1:$name}, ${2:$value}, [${3}]) !!}'

@@ -1,0 +1,4 @@
+'.text.html.php.blade':
+  '{!! Form::close() !!}':
+    'prefix': 'formclose'
+    'body': '{!! Form::close(${1}) !!}'

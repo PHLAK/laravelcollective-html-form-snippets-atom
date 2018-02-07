@@ -1,0 +1,4 @@
+'.text.html.php.blade':
+  '{!! Form::selectRange() !!}':
+    'prefix': 'formselectrange'
+    'body': '{!! Form::selectRange(${1:$name}, ${2:$min}, ${3:$max}), [${4}] !!}'
