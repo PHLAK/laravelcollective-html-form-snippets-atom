@@ -11,6 +11,10 @@ Like this project? Keep me caffeinated by [making a donation](https://paypal.me/
 Installation
 ------------
 
+##### Wtih APM:
+
+    apm install laravelcollective-html-form-snippets
+
 ##### In Atom:
 
   1. In Atom press `Ctrl` + `Shift` + `P` to open the command pallet
