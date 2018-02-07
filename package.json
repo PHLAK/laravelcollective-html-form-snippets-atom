@@ -1,23 +1,17 @@
 {
   "name": "laravelcollective-html-form-snippets",
-  "main": "./lib/laravelcollective-html-form-snippets",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Atom snippets for LaravelCollective HTML form elements",
   "keywords": [
       "laravel",
       "snippets",
       "laravelcollective",
       "forms",
-      "inputs",
       "html"
   ],
-  "activationCommands": {
-    "atom-workspace": "laravelcollective-html-form-snippets:toggle"
-  },
   "repository": "https://github.com/PHLAK/laravelcollective-html-form-snippets-atom",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {}
+    "atom": ">=1.0.0"
+  }
 }
