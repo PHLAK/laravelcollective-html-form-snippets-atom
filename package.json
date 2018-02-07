@@ -1,13 +1,13 @@
 {
   "name": "laravelcollective-html-form-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom snippets for LaravelCollective HTML form elements",
   "keywords": [
-      "laravel",
-      "snippets",
-      "laravelcollective",
-      "forms",
-      "html"
+    "laravel",
+    "snippets",
+    "laravelcollective",
+    "forms",
+    "html"
   ],
   "repository": "https://github.com/PHLAK/laravelcollective-html-form-snippets-atom",
   "license": "MIT",
