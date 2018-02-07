@@ -1,4 +1,4 @@
 '.text.html, .text.html.php.blade':
   '{!! From::textarea() !!}':
     'prefix': 'formtextarea'
-    'body': '{!! Form::textarea(${1:$name}, ${2:$value}, [${3}]) !!}'
+    'body': '{!! Form::textarea(${1:$name}, ${2:$value}, ${3:[${4}]}) !!}${0}'

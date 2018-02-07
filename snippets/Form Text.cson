@@ -1,4 +1,4 @@
 '.text.html, .text.html.php.blade':
   '{!! Form::text() !!}':
     'prefix': 'formtext'
-    'body': '{!! Form::text(${1:$name}, ${2:$value}, [${3}]) !!}'
+    'body': '{!! Form::text(${1:$name}, ${2:$value}, ${3:[${4}]}) !!}${0}'

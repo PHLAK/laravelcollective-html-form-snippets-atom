@@ -1,10 +1,8 @@
 LaravelCollective HTML Form Snippets
 ====================================
 
-[Atom](https://atom.io/) snippets for
-[LaravelCollective/html](https://github.com/LaravelCollective/html)
-form elements. -- by, [Chris Kankiewicz](https://www.ChrisKankiewicz.com)
-([@PHLAK](https://twitter.com/PHLAK))
+[Atom](https://atom.io/) snippets for [LaravelCollective HTML](https://github.com/LaravelCollective/html)
+form elements. -- by, [Chris Kankiewicz](https://www.ChrisKankiewicz.com) ([@PHLAK](https://twitter.com/PHLAK))
 
 Like this project? Keep me caffeinated by [making a donation](https://paypal.me/ChrisKankiewicz).
 
@@ -24,6 +22,13 @@ Clone the repository in your Sublime Text "Packages" directory
 (~/.atom/packages on Linux):
 
     git clone git@github.com:PHLAK/laravelcollective-html-form-snippets-atom.git
+
+---
+
+**NOTE:** It is recommended that you also install the [language-blade](https://atom.io/packages/language-blade)
+package to get full blade syntax highlighting.
+
+---
 
 Usage
 -----

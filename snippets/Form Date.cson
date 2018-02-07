@@ -1,4 +1,4 @@
 '.text.html, .text.html.php.blade':
   '{!! Form::date() !!}':
     'prefix': 'formdate'
-    'body': '{!! Form::date(${1:$name}, ${2:\Illuminate\Support\Carbon::now()}, [${3}]) !!}'
+    'body': '{!! Form::date(${1:$name}, ${2:\Illuminate\Support\Carbon::now()}, ${3:[${4}]}) !!}${0}'

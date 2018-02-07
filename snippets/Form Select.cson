@@ -1,4 +1,4 @@
 '.text.html, .text.html.php.blade':
   '{!! Form::select() !!}':
     'prefix': 'formselect'
-    'body': '{!! Form::select(${1:$name}, ${2:$optionsArray}, ${3:$defaultKey}, [${4}]) !!}'
+    'body': '{!! Form::select(${1:$name}, ${2:$optionsArray}, ${3:$defaultKey}, ${4:[${5}]}) !!}${0}'
