@@ -1,4 +1,4 @@
-'.text.html.php.blade':
+'.text.html, .text.html.php.blade':
   '{!! Form::label() !!}':
     'prefix': 'formlabel'
     'body': '{!! Form::label(${1:$for}, ${2:$text}, [${3}]) !!}'

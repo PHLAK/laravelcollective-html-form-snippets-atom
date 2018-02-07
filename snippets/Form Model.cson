@@ -1,4 +1,4 @@
-'.text.html.php.blade':
+'.text.html, .text.html.php.blade':
   '{!! Form::model() !!}':
     'prefix': 'formmodel'
     'body': '{!! Form::model(${1:$user}, [${2}]) !!}'
