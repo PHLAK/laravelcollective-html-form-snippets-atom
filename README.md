@@ -1,5 +1,5 @@
-LaravelCollective HTML Form Snippets
-====================================
+LaravelCollective HTML Form Snippets for Atom
+=============================================
 
 [Atom](https://atom.io/) snippets for [LaravelCollective HTML](https://github.com/LaravelCollective/html)
 form elements. -- by, [Chris Kankiewicz](https://www.ChrisKankiewicz.com) ([@PHLAK](https://twitter.com/PHLAK))
